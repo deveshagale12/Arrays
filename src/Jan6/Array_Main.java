@@ -8,6 +8,7 @@ public class Array_Main {
 
 
 		Scanner sc=new Scanner(System.in);
+		
 
 	}
 
